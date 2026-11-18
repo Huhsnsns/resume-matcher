@@ -1,0 +1,34 @@
+PRIYA NAIR
+Bengaluru, India 
+
+SUMMARY
+Recent computer science graduate with hands-on experience in Python, data analysis, and building small web applications. Eager to apply problem-solving skills in a software or data role.
+
+EDUCATION
+B.Tech in Computer Science, Example Institute of Technology, 2022 - 2026
+CGPA: 8.2/10
+
+SKILLS
+Programming: Python, Java, SQL, HTML, CSS
+Tools: Git, GitHub, VS Code, Excel
+Concepts: Data structures, basic machine learning, REST APIs
+
+PROJECTS
+Expense Tracker App
+- Built a Python application to record and categorize daily expenses
+- Stored data in a SQLite database and generated monthly summary reports
+- Reduced manual tracking time by about 50% for a group of 10 users
+
+Student Marks Analyzer
+- Analyzed class exam data using pandas and created charts with matplotlib
+- Identified subjects with the lowest average scores and presented findings to faculty
+
+INTERNSHIP
+Software Intern, Sample Tech Solutions, May 2025 - July 2025
+- Fixed 15+ bugs in an internal dashboard written in Python and Flask
+- Wrote SQL queries to pull weekly reports for the operations team
+- Collaborated with a team of 5 using Git and daily stand-up meetings
+
+CERTIFICATIONS
+- Python for Everybody, Coursera
+- SQL Fundamentals, Example Learning Platform

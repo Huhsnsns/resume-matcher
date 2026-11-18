@@ -1,0 +1,27 @@
+Junior Software Engineer - Backend
+
+Company: BrightLeaf Technologies
+Location: Bengaluru, India (Hybrid)
+
+About the role
+We are looking for a junior backend engineer to join our product team. You will help build and maintain the services that power our customer-facing applications, working closely with senior engineers.
+
+Responsibilities
+- Develop and maintain backend services and REST APIs using Python
+- Write and optimize SQL queries for reporting and data access
+- Deploy and run services using Docker on cloud platforms
+- Fix bugs, write tests, and take part in code reviews
+- Collaborate with product and design teams in daily stand-ups
+
+Requirements
+- Bachelor's degree in Computer Science or a related field
+- Strong Python skills
+- Experience with SQL databases
+- Familiarity with Docker and cloud platforms (AWS preferred)
+- Experience building or consuming REST APIs
+- Good communication and teamwork skills
+
+Nice to have
+- Knowledge of CI/CD pipelines
+- Exposure to machine learning or data analysis
+- Experience with unit testing frameworks such as pytest
